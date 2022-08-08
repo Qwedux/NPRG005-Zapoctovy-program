@@ -1,0 +1,30 @@
+Koren "adb" [
+    Uzol "b" [
+        Uzol "c" [
+            Uzol "" [
+
+            ] (Just 9) (Just 9) True 3
+        ] (Just 8) (Just 0) False 2
+    ] (Just 0) (Just 0) False 1,
+    Uzol "a" [
+        Uzol "b" [
+            Uzol "c" [
+                Uzol "" [
+
+                ] (Just 3) (Just 3) True 7
+            ] (Just 2) (Just 0) False 6
+        ] (Just 1) (Just 0) False 5
+    ] (Just 0) (Just 0) False 4,
+    Uzol "c" [
+        Uzol "" [
+
+        ] (Just 0) (Just 0) True 9
+    ] (Just 0) (Just 0) False 8
+] (Just 0) Nothing False 0
+
+Koren "a" [
+    Uzol "ba" [
+        Uzol "" [] (Just 0) (Just 0) True 1,
+        Uzol "" [] (Just 3) (Just 0) True 4
+    ] (Just 0) (Just 0) False 3
+] (Just 0) Nothing False 0
